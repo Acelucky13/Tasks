@@ -5,7 +5,7 @@ Submitted by: **Miguel Gomez**
 **Tasks** is an app that an app made for everyday life to remind you of things needed to do-
 and daily tasks, via take the trash out, etc ...
 
-Time spent: **120** hours spent in total
+Time spent: **48** hours spent in total
 
 ## Required Features
 
