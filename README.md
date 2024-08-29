@@ -1,11 +1,11 @@
-# Project 7 - *Tasks*
+# Project
 
 Submitted by: **Miguel Gomez**
 
 **Tasks** is an app that an app made for everyday life to remind you of things needed to do-
 and daily tasks, via take the trash out, etc ...
 
-Time spent: **24** hours spent in total
+Time spent: **120** hours spent in total
 
 ## Required Features
 
@@ -30,14 +30,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-<div>
-    <a href="https://www.loom.com/share/144c73eef08b454680cb2b09d731c80f">
-    <a href="https://www.loom.com/share/144c73eef08b454680cb2b09d731c80f">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/144c73eef08b454680cb2b09d731c80f-with-play.gif">
-    </a>
-  </div>
-
-## Notes
+<div style="position: relative; padding-bottom: 211.76470588235296%; height: 0;"><iframe src="https://www.loom.com/embed/8b2e375dee5b42ff8e554bfa9913f066?sid=bfe0d722-a7ac-42b7-8faa-f3129e022992" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 The challenges I met were to find a solution to integrate Calender,and task at the end of project-
 but I was able to finish the app completely.
